@@ -52,7 +52,7 @@
 
 - [Facebook](https://www.facebook.com/Norbshii.4/)
 - [Instagram](https://www.instagram.com/norbshii/)
-- [Email](norberto.pingoy@wvsu.edu.ph)
+- [Email](mailto:norberto.pingoy@wvsu.edu.ph)
 - [Tiktok](https://www.tiktok.com/@norbshii)
 
 
