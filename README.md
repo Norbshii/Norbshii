@@ -1,8 +1,9 @@
-# **_Preface_**
+<img src="https://github.com/Norbshii/Norbshii/blob/main/Images/LOGO%20Norbshii.svg" width="50"> <br /> 
+## **_CODENAME: RIRI_**
 
-### _Ohayo Gozaimasu_ 👋
+### _Ohayo Gozaimasu_ <img src="https://github.com/Norbshii/Norbshii/blob/main/Images/icons8-vaporwave-64.png" width="20">
 
-**I am _Norbshii_/Norberto Pingoy** a ✨1st year BSCS student of WVSU Main Campus✨and I made this repository to properly introduce myself.
+**I am _RIRI/Norbshii_/Norberto Pingoy** a ✨1st year BSCS student of WVSU Main Campus✨and I made this repository to properly introduce myself.
 
 ## **_👨🏻‍💻 Biography_**
  
@@ -29,11 +30,10 @@
 <br />
 <br />
 
-### _**Organizations**_
+### _**👔 Organizations**_
  
- - **West Esports:** _Role - WVSU Leviathans' MLBB Player, Support/Mage, Multirole_
- - **USA** - _Member_
-
+ - <img src="https://github.com/Norbshii/Norbshii/blob/main/Images/West%20Esports%20Logo.png" width="15"> **West Esports:** _Role - WVSU Leviathans' MLBB Player, Support/Mage, Multirole_
+ - <img src="https://github.com/Norbshii/Norbshii/blob/main/Images/USA%20Logo.jpg" width="15"> **USA** - _Member_
 <br />
 <br />
 
@@ -50,9 +50,9 @@
 
 ## _**📇 Contact me at:**_
 
-- [Facebook](https://www.facebook.com/Norbshii.4/)
-- [Instagram](https://www.instagram.com/norbshii/)
-- [Email](mailto:norberto.pingoy@wvsu.edu.ph)
-- [Tiktok](https://www.tiktok.com/@norbshii)
+- <img src="https://github.com/Norbshii/Norbshii/blob/main/Images/icons8-facebook.svg" width="15"> [Facebook](https://www.facebook.com/Norbshii.4/)
+- <img src="https://github.com/Norbshii/Norbshii/blob/main/Images/icons8-instagram.svg" width="15"> [Instagram](https://www.instagram.com/norbshii/)
+- <img src="https://github.com/Norbshii/Norbshii/blob/main/Images/icons8-gmail.svg" width="15"> [Email](mailto:norberto.pingoy@wvsu.edu.ph)
+- <img src="https://github.com/Norbshii/Norbshii/blob/main/Images/icons8-tiktok.svg" width="15"> [Tiktok](https://www.tiktok.com/@norbshii)
 
 
