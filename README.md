@@ -1,5 +1,5 @@
 <img src="https://github.com/Norbshii/Norbshii/blob/main/Images/LOGO%20Norbshii.svg" width="50"> <br /> 
-## **_CODENAME: RIRI_**
+## **_CODENAME: RYRI_**
 
 ### _Ohayo Gozaimasu_ <img src="https://github.com/Norbshii/Norbshii/blob/main/Images/icons8-vaporwave-64.png" width="20">
 
